@@ -2,5 +2,6 @@ Resume projects:
 
 1) Ecommerce recommendation system:
 
-Developed an Ecommerce recommendation system using transfer learning with RESNET50, trained on a dataset of around 40k images of items like clothes, beauty products, handbags, purses, and shoes. 
+Developed an Ecommerce recommendation system using transfer learning with RESNET50, trained on a dataset of around 40k images of items like clothes, beauty products, handbags, purses, and shoes 
+using ImageNet weights. 
 Utilized the nearest neighbor algorithm to determine similarities between different items and recommend items to users.
