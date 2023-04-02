@@ -5,3 +5,8 @@ Resume projects:
 Developed an Ecommerce recommendation system using transfer learning with RESNET50, trained on a dataset of around 40k images of items like clothes, beauty products, handbags, purses, and shoes 
 using ImageNet weights. 
 Utilized the nearest neighbor algorithm to determine similarities between different items and recommend items to users.
+
+2) Churn Prediction Model for Cab Drivers:
+
+Developed a predictive model to identify cab drivers who are likely to churn using different ensemble model such as Random Forest, Gradient Boosting, and XGBOOST.
+Conducted feature importance analysis and compared the performance of individual models using metrics like Precision, Recall and F1-Score to identify the best model .
